@@ -1,0 +1,203 @@
+body {
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    -webkit-font-smoothing: antialiased;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+    background: white;
+    transition: box-shadow .25s ease 0s;
+}
+
+.logo_docplanner {
+    width: 268px;
+    height: 33px;
+}
+
+.section_menu {
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.header h1 {
+    margin: 2px 0 0;
+    line-height: 68px;
+    display: inline-block;
+    position: relative;
+}
+
+.header a {
+    display: inline-block;
+}
+
+.menu {
+    position: relative;
+    float: right;
+}
+.style_menu li {
+    display: inline-block;
+    color: #00b39b;
+    padding-inline: 5px;
+}
+
+.style_menu a{
+    list-style: none;
+    padding: 1.33em 0;
+    text-decoration: none;
+    color: #ababab;
+    display: block;
+    
+}
+
+.style_menu .cible {
+    color: #00b39b;
+}
+
+.style_menu a:hover {
+    color: #00b39b;
+}
+
+.list_deroulant {
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+}
+
+.menu_deroulant {
+    display: none;
+    padding-top: 10px;
+    position: absolute;
+    min-width: 220px;
+    margin-left: -100px;
+    background: #fff;
+    box-shadow: 0 5px 10px 0 #d3cfc9;
+    z-index: 1;
+}
+
+.icone_logo {
+    display: block;
+    margin-top: 110px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.text_presentation{
+    text-align: center;
+    font-size: 2.125rem;
+    font-weight: 300;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+    margin: 1em 0;
+}
+
+.sep_text{
+   text-align: center;
+   max-width: 1000px;
+   margin-left: 180px;
+   font-family:Roboto, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   line-height: 1,3;
+   
+   
+}
+
+
+.row{
+    text-align: left;
+    
+}
+.section__inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+
+}
+ div img{position: relative; bottom: 36px; right: 90px;}
+p{color: antiquewhite;
+font-size: 23px;word-spacing: 7px;
+font-family: 'Work sans', sans-serif;
+position: relative; bottom: 63px;line-height: 1,3;}
+th{width: 320px;height: 340px;background-color: #00b39b;
+position: relative; left: 529px; top: 90px; border-radius: 10px;}
+svg{height: 20px;
+    width: auto;
+    max-width: 100%;
+    color: #747474;
+    position: relative;left:  20px;
+}
+svg{width: 110px;
+background-image: #747474;
+margin: 2px;
+float: right;
+justify-content: center;
+}
+h1:first-child {
+    margin: 0;
+}
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+ul.horizontal-list {
+    list-style: none; 
+    padding: 0; 
+    display: flex; 
+  }
+  .stats__item {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body{font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+
+
+}
+
+    
+
+    
+
+
+   
+
+
+
+
+
+
+
+
+
